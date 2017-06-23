@@ -35,4 +35,3 @@ function cal2()
 	var y = document.getElementById("x1");
 	y.value = eval(y.value);
 }	
-
